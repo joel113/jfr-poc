@@ -212,3 +212,7 @@ https://github.com/quick-perf
 ## Project Requirements
 
 Java 15
+
+## Further Links
+
+http://hirt.se/blog/?p=1239
